@@ -50,4 +50,4 @@ spec:
   - name: NAMESPACE
     value: bma-prod
   - name: NAME
-    value: acenew
+    value: aceprod
