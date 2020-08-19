@@ -47,16 +47,3 @@ $ oc apply -f sa/
 ![alt text](1.png)
 
 ## test
-
-
-
-
-
-
-
-
-
-
-
-
-
